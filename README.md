@@ -1,2 +1,2 @@
 # GameProject-Battlefield
-Battlefield game with sbt
+# card game
